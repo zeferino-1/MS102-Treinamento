@@ -109,7 +109,7 @@ O relatório completo com imagens e explicações está disponível em:
 
 ## 🧠 Autor
 
-**Instrutor:** [Seu Nome Aqui]  
+**Instrutor:** Manuel Miguel  
 **GitHub:** [@tmm1884](https://github.com/tmm1884)
 
 ---
