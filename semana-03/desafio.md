@@ -12,3 +12,4 @@ Realize as seguintes atividades de segurança e governança:
 8. Gerar relatório de alertas e exportar para PDF.
 9. Criar script que liste políticas DLP ativas.
 10. Escrever README explicando a arquitetura de segurança criada.
+11. 13. Criar um PDF a documentar as tarefas acima
