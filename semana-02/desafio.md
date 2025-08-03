@@ -12,3 +12,4 @@ Atividades obrigatórias:
 8. Criar grupo dinâmico com base em atributo personalizado.
 9. Capturar prints de todas as políticas e alertas.
 10. Escrever README detalhando o impacto de cada configuração.
+11. 13. Criar um PDF a documentar as tarefas acima
