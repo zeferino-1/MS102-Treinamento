@@ -14,3 +14,4 @@ Realize as seguintes atividades e documente tudo no GitHub:
 10. Criar um script PowerShell para listar todos os grupos e membros.
 11. Capturar prints de cada etapa no portal Microsoft 365.
 12. Escrever README explicando o propósito de cada item e a lógica aplicada.
+13. Criar um PDF a documentar as tarefas acima
