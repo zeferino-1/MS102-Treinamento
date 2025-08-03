@@ -12,3 +12,4 @@ Entregáveis obrigatórios:
 8. Script PowerShell para exportar licenças e usuários.
 9. Simulação de incidente e resposta no portal Defender.
 10. Apresentação do projeto final (resumo, prints, scripts, justificativa).
+11. 13. Criar um PDF a documentar as tarefas acima
