@@ -3,7 +3,7 @@
 Realize as seguintes atividades e documente tudo no GitHub:
 
 1. Criar 5 usuários com atributos personalizados (nome, UPN, senha).
-2. Criar 2 grupos: 1 de segurança e 1 Microsoft 365.
+2. Criar 3 grupos: 1 de segurança, 1 Microsoft 365 e 1 de distribuição.
 3. Atribuir licenças a pelo menos 3 usuários.
 4. Criar uma Unidade Administrativa e delegar função.
 5. Criar naming convention para usuários e grupos.
